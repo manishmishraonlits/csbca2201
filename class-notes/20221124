@@ -1,0 +1,15 @@
+
+	Algorithm to accept length and breadth
+	of a rectangle and find its area.
+	
+	1. Start
+	2. Read l, b
+	3. a = l * b
+	4. Print a
+	5. Stop
+	
+	Compiler
+	
+	Ampersand
+	
+	Block: a group of code
