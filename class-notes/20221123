@@ -1,0 +1,33 @@
+
+	Text Editor: 
+	
+	Paradigm: The principles or techniques used for developing programs.
+
+				Procedure Oriented Programming
+				Object Oriented Programming
+				
+				GUI
+				CUI/CLI
+				
+		Steps to wash uniform:
+			1. Fill a bucket with water.
+			2. Pour detergent to it.
+			3. Soak uniform in it for 30 minutes.
+			4. Wash it.
+			5. Rinse it.
+			6. Dry it on the washing line.
+			
+		Steps to add two integers:
+			1. Accept two numbers.
+			2. Add them
+			3. Tell the sum
+			
+		
+		Algorithm: Step by step solution of a problem.
+			1. Start
+			2. Read A, B
+			3. C = A + B
+			4. Print C
+			5. End
+			
+		
