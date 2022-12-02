@@ -1,0 +1,46 @@
+
+	Ramesh
+		Input - Basic Salary, 
+		
+		Processing - Dearness Allowance (40%),
+						House Rent Allowance (20%), GS
+		
+		Output	-	Gross Salary
+		
+		
+		
+		Analyse:
+			
+			
+		Singh in USA
+			
+			
+		Verbose
+		
+		Scholastic Development
+		Holistic Development
+		
+	Fibonacci Series
+		1, 1, 2, 3, 5, 8, ... 
+		
+	1. Start
+	2. Read bs
+	3. da = bs * 40 / 100
+	4. hra = bs * 20 / 100
+	5. gs = bs + da + hra
+	6. Print gs
+	7. Stop
+	
+	mmhapu
+	
+	Characteristics of a good student:
+		- Do mention your sources
+		
+	Characteristics of a good program:
+		1) Efficient
+		2) Robust
+		3) Portable
+		4) Readable
+		5) Maintainble
+		
+	
