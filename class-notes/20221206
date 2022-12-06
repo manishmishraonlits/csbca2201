@@ -1,0 +1,44 @@
+
+	  20		-	Augend	
+	+ 10		-	Addend
+	------
+	  30		-	Sum
+	------
+	
+	
+	  20		-	Minued	
+	- 10		-	Subtrahend
+	------
+	  10		-	Difference
+	------
+	
+	
+	11 / 2	=	5 or 5.5
+	
+	11 % 2 = 	1
+	
+	12345 % 10	=	5
+	1234 % 10	=	4
+	123 % 10	=	3
+	12 % 10		=	2
+	1
+	
+	s = 1 + 2 + 3 + 4 + 5
+	
+	Validate
+	
+	Algorithm:
+	1. Start
+	2. Read n
+	3. d = n % 10
+	4. n = n / 10
+	
+	
+	65	=	01000001
+	
+	char a = 'A';		//1 - byte
+	
+	
+	
+	
+	

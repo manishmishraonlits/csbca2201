@@ -1,0 +1,41 @@
+
+	Alan Turing: Father of Computer Science
+	
+	Can machine think?
+		Artificial Intelligence
+		
+	Programming is a skill best acquired through
+	practice and experiment rather than books.
+	
+	Token:
+	1. Keyword
+		The word that has special meaning to language
+		compiler is called keyword. int, return, void
+	2. Identifier
+		Names that we give to variables, arrays, functions or
+		any other user-defined program elements. Eg c, d, t,
+		main, printf, scanf
+	3. Constant
+	4. String	"Enter the ...",
+	5. Operators	=
+	6. Special Symbols
+	
+	Algorithm:
+		1. Start
+		2. Read C, D
+		3. T = D
+		4. D = C
+		5. C = T
+		6. Print C, D
+		7. Stop
+		
+	void main()
+	main()
+	int main()
+	
+	char ch = 'a';
+	
+	PHP: PHP HyperText Preprocessor
+	BING: Bing is not Google
+	GNU: Gnu is not Unix
+	
