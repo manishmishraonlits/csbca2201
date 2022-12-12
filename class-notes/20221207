@@ -1,0 +1,51 @@
+
+	If it is raining today I will take umbrella
+	otherwise I will not take.
+	
+	If its rains today I will take an umbrella
+	otherwise not.
+	
+	If its rains today then I will carry umbrella
+	otherwise not.
+	
+	If it rains today I will carry an umbrella
+	otherwise no.
+	
+	Verbose
+	
+	If
+	If Else
+	If Else If Ladder
+	Nested If
+	
+	Switch-case
+	
+	Even/Odd
+	Algorithm:
+	1. Start
+	2. Read n
+	3. If n mod 2 = 0 then print "Even"
+	4. Else print "Odd"
+	5. Stop
+	
+	Wireframe (Figma)
+	UI/UX developer
+	
+	1. Design an algorithm + Test Case
+	2. Develop a flowchart
+	3. Code the flowchart
+	4. Test your program using the above test cases
+	
+	Hackerrank
+	Leetcode
+	
+	Simple
+	Compound
+	
+	C is a free flowing language.
+	
+	%d - format string / control string
+	
+	Placeholder
+	
+	

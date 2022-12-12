@@ -1,0 +1,26 @@
+	
+	1. WAP to accept marks scored by a student in a test
+	   (out of 100) and print "Pass" if the student has
+	   secured more than or equal to 40 otherwise print
+	   "Fail".
+	  
+	2. WAP to accept marks scored by a student in a test
+	   (out of 100) and display his grade as per following
+	   information:
+	   
+	   A	=>	>=80
+	   B	=>	Between 60 and 80
+	   C	=>	Between 40 and 60
+	   D	=>	Below 40
+	   
+	3. WAP to accept a number and display day name corres-
+	   ponding to the number.
+	   
+	   Eg. Display "Sunday" for 1.
+	
+	4. WAP to ask the question "Who is the inventor of
+	   C Language?". Print "You are genius!" if the 
+	   answer is correct otherwise print "Go back to
+	   school!".
+	   
+	  Polymorphism
