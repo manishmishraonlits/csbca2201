@@ -1,0 +1,42 @@
+
+	int, float, char
+	
+	date, time, student
+	
+	Decision Making
+	Looping/Iteration
+	
+	WAP to print "C was developed by Dennis Ritchie at Bell
+	Lab, New Jersey, USA in 1972." 10 times.
+	
+	DRY: 	Don't Repeat Yourself
+	KISS:	Keep It Simple Stupid
+	YAGNI:	You aren't gonna need it
+	
+	while
+	for
+	
+	C - based
+	
+	For i is equal to  1 to 10.
+	
+	1. WAP to accept a number an find its factorial.
+	2. WAP to print first n natural numbers.
+	3. WAP to print first n terms of Fibonacci Series.
+	4. WAP to accept a number and find its factors.
+	5. WAP to accept a number and print its first 10 multiples.
+	6. WAP to accept a number and print its multiplication table.
+	
+	
+	
+	Learnardo Da Vinci
+	
+	0, 1, 1, 2, 3, 5, ...
+	
+	Applications of factorial:
+		5! = 5 x 4 x 3 x 2 x 1	=	120
+	
+	
+		
+	
+	
