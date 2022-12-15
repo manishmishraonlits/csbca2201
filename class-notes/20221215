@@ -1,0 +1,46 @@
+	
+	manishmishra.shg@gmail.com
+	
+	Doubts, Assignment, Project
+	
+	cc, bcc
+	
+	cc	-	carbon copy
+	bcc	-	blind carbon copy
+	
+	lead
+		Hot
+		Warm
+		Cold
+	
+	
+	1. WAP to accept a number and find the sum of digits.
+	
+	Constraint
+	
+	
+	1. WAP to accept 3 integers and display them in ascending order.
+	2. WAP to accept 5 integers and display them in ascending order.
+	
+	
+	n = 123
+	d = n % 10		//remainder
+	n = n / 10		//quotient
+	
+	d = n % 10
+	n = n / 10
+	
+	elegant
+	
+	?:	-	Conditional operator
+	
+	unary	-	1 operad	(i++)
+	binary	-	2 operands
+	ternary -	3 operands	(?:)
+	
+	n = (d > 10) ? 50 : 100;
+	
+	
+	
+	
+	
