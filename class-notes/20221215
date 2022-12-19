@@ -40,6 +40,25 @@
 	
 	n = (d > 10) ? 50 : 100;
 	
+	3!	=	6
+	5!	=	120
+	6! = 	720
+	
+	List processing
+	
+	array: An array is a collection of similar elements.
+	
+	date d;
+	int a;
+	
+	int arr[10];
+	
+	
+	scanf("%d", a[0]);
+	scanf("%d", a[1]);
+	
+	Linux
+	Git
 	
 	
 	
