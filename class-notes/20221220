@@ -1,0 +1,46 @@
+
+	String:
+		A group of character.
+		
+		Capital letters	: A, B, C, ..., Z
+		Small leters   	: a, b, c, ..., z
+		Digits			: 0-9
+		Special symbox	: .,/()[]';+-
+		
+		BCA-1
+		Rohan
+		
+		Endless OS
+		
+	
+	int arr[10]
+	char arr[10]	-> individual units char
+	
+	In C strings are stored in character arrays.
+	
+	In Java strings are stored in String class object.
+	
+	C++ supports both the methods.
+	
+	All C programs are C++ programs but the opposite is 
+	not true.
+	
+	In which language JVM is written.
+	
+	Ryan Dahl - Node JS
+	
+	JS - Browser
+		chrome	-	V8
+		Edge	-	Chakra
+		Firefox	-	SpiderMonkey
+		
+	Persistent storage
+	
+	String Manipulation
+		strlen()
+		strcat()
+		strcpy()
+		
+	Backslash Character Constant or Escape Sequence
+		
+	
